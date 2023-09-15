@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @truebagus
 - 👀 I’m interested in networking, linux, databases, web form, web app and many more about tech
 - 🌱 I love love learning
-- 💞️ So please be kind and become my teacher thank you
+- 💞️ So please be kind
 
 <!---
 truebagus/truebagus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
